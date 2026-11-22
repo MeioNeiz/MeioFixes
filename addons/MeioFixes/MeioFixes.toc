@@ -5,6 +5,8 @@
 ## Author: MeioNeiz
 ## X-Website: https://github.com/MeioNeiz/MeioFixes
 ## X-License: MIT
+## X-Curse-Project-ID: 1824485
+## X-Wago-ID: QN5J736B
 ## Category: Meio
 ## IconTexture: Interface\Icons\INV_Misc_Wrench_01
 
