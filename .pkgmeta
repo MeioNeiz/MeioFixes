@@ -1,0 +1,12 @@
+package-as: MeioFixes
+
+move-folders:
+  MeioFixes/addons/MeioFixes: MeioFixes
+
+ignore:
+  - docs
+  - README.md
+
+manual-changelog:
+  filename: CHANGELOG.md
+  markup-type: markdown

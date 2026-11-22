@@ -1,0 +1,24 @@
+{
+  "title": "Meio Fixes",
+  "summary": "Stops Lua errors in Blizzard's auction house and profession windows: posting trade goods, early Browse clicks, talent changes.",
+  "cfCategory": "Auction & Economy",
+  "cfExtra": [
+    "Professions"
+  ],
+  "wagoCategories": [
+    "Auction & Economy",
+    "Professions"
+  ],
+  "gallery": [
+    {
+      "file": "before-after.png",
+      "title": "Before and after",
+      "description": "Posting Linen Cloth: a Lua error and no auction, then Auction created"
+    },
+    {
+      "file": "browse.png",
+      "title": "Browse click",
+      "description": "Clicking a result whose name hasn't loaded: a Lua error, then nothing until the name shows"
+    }
+  ]
+}
