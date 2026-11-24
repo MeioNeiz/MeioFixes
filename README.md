@@ -8,7 +8,9 @@ nothing is posted; with MeioFixes, "Auction created."](docs/before-after.png)
 ## What it does
 
 Fixes bugs in Blizzard's UI that throw Lua errors (or a BugSack alert) in normal play. Each
-fix only steps in where the error would happen; everything else works as Blizzard made it.
+fix changes nothing unless the error would happen. The Create Auction one sits in every
+commodity post: it passes Blizzard's deposit through and fills one in only when the game
+gives none.
 
 - **Auction house, Create Auction**: on trade goods it sometimes failed with
   `Blizzard_AuctionHouseSellFrame.lua:477: attempt to compare nil with number` and nothing
