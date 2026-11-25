@@ -4,7 +4,7 @@ Stops Lua errors in Blizzard's own auction house and profession windows.
 
 For WoW Forever.
 
-![Posting Linen Cloth on the auction house: before, Create Auction gives a Lua error and
+![The same Linen Cloth post side by side: before, Create Auction gives a Lua error and
 nothing is posted; with MeioFixes, "Auction created."](docs/before-after.png)
 
 ## What it does
