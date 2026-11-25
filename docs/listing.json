@@ -1,6 +1,6 @@
 {
   "title": "Meio Fixes",
-  "summary": "Stops Lua errors in Blizzard's auction house and profession windows: posting trade goods, early Browse clicks, talent changes.",
+  "summary": "Create Auction works again on trade goods; no more auction house Lua errors.",
   "cfCategory": "Auction & Economy",
   "cfExtra": [
     "Professions"
