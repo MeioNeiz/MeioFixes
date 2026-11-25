@@ -20,6 +20,9 @@ fix changes nothing unless the error would happen.
 - **Changing talents after a recipe search gave ten errors at once**: now nothing happens.
   The error was `Blizzard_ProfessionsRecipeList.lua:359: attempt to call a nil value`
 
+![Auction house results, the mouse on a result still loading: before, a Lua error; with Meio
+Fixes, nothing happens](docs/browse.png)
+
 No settings.
 
 ## Install
