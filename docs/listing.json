@@ -1,6 +1,6 @@
 {
   "title": "Meio Fixes",
-  "summary": "Create Auction works again on trade goods; no more auction house Lua errors.",
+  "summary": "Stops Lua errors in Blizzard's auction house; Create Auction works on trade goods.",
   "cfCategory": "Auction & Economy",
   "cfExtra": [
     "Professions"

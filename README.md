@@ -1,6 +1,7 @@
 # Meio Fixes
 
-Stops Lua errors in Blizzard's own auction house and profession windows.
+Getting Lua errors at the auction house with no addons to blame? Meio Fixes stops the ones
+in Blizzard's own auction and profession windows.
 
 For WoW Forever.
 
